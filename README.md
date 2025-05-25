@@ -7,4 +7,6 @@ Find more Spring Boot tutorials / code samples on my blog at https://kaviddiss.c
 
 Note this code is based on an earlier version of Spring Boot. See here for details on using Quartz with newer version of Spring Boot: https://docs.spring.io/spring-boot/docs/2.2.x/reference/html/spring-boot-features.html#boot-features-quartz
 
-<!-- GitAds-Verify: 2MG2GW5KE8HGRARNZB1CKKAGAE5UAMRF -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/spring-boot-quartz-demo-1@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/spring-boot-quartz-demo-1@github)
+
